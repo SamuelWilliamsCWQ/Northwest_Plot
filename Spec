@@ -1,0 +1,5 @@
+·Show all units and ducting.
+·Show building markers, such as stairs, lifts, etc.
+·Fade the zone shading to 25%.
+·Remove white background and fit image as we don’t need a frame around it.
+·Change the scaled size of the image. The max dimensions are to fit height 725px.
